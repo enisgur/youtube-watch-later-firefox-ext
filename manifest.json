@@ -20,5 +20,13 @@
   },
   "icons": {
     "48": "icons/icon.svg"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "enx_gr@hotmail.com",
+      "data_collection_permissions": {
+        "description": "This extension does not collect any user data. It only stores video links locally on your computer."
+      }
+    }
   }
 }
